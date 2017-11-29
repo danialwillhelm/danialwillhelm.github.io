@@ -39,7 +39,7 @@ body {
 .spectrum div {
   font: inherit;
   padding: 0 20px;
-  color: #0000FF;
+  color: #FFFFFF;
   overflow: auto;
   opacity: 0.9;
 }
@@ -72,7 +72,7 @@ body {
 
 /* Typography */
 h1 {
-  color: #0000FF;
+  color: #41292C;
   font-family: 'Covered By Your Grace', sans-serif;
   font-size: 50px;
   line-height: 76px;
@@ -83,7 +83,7 @@ h1 {
 }
 
 h2 {
-  color: #0000FF;
+  color: #E4BB97;
   font-family: 'Libre Baskerville', serif;;
   font-size: 28px;
   font-weight: 500;
@@ -92,7 +92,7 @@ h2 {
 }
 
 h3 {
-  color: #0000FF;
+  color: #41292C;
   font-family: 'Libre Baskerville', serif;
   font-size: 22px;
   font-weight: 500;
@@ -128,7 +128,7 @@ li {
 }
 
 p {
-  color: #0000FF;
+  color: #08088A;
   line-height: 32px;
   font-family: 'Raleway', sans-serif;
   font-size: 20px;
@@ -136,7 +136,7 @@ p {
 }
 
 a {
-  color: #0000FF;
+  color: #08088A;
   font-family: 'Raleway', sans-serif;
   font-size: 13px;
   font-weight: 900;
